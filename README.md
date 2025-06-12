@@ -40,7 +40,7 @@ Projet GatherKeep (3 dépôts séparés)
 
 ## Architecture
 
-* __[Vue d'ensemble](#Structure des dépôts)__ - Architecture générale et choix techniques
+* __[Vue d ensemble](#Structure des dépôts)__ - Architecture générale et choix techniques
 * __[Développement local](./local-development.md)__ - Setup en local
 * __[Déploiement production](./production-deployment.md)__ - Configuration serveur
 
